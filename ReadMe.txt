@@ -16,6 +16,7 @@ CustomerSales.csv field names:
 "SalesFY1" - Sales from fiscal year 1
 "SalesFY2" - Sales from fiscal year 2
 
+Stores.csv field names:
 "FID" - Feature ID - Unique identifier	
 "coords.x" - X coordinates in Albers Equal Area Projection (meters)
 "coords.y" - Y coordinates in Albers Equal Area Projection (meters)
@@ -25,4 +26,5 @@ CustomerSales.csv field names:
 "SalesFY2" - Total sales from fiscal year 2 for all customers based on their closest store	
 "optional" - Binary operator (TRUE/FALSE)	
 "SalesFY1_LTE150mi" - Total sales from fiscal year 1 for all customers within 150 miles based on their closest store
+
 "SalesFY2_LTE150mi" - Total sales from fiscal year 1 for all customers within 150 miles based on their closest store
